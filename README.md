@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Geovanny Guaman</h1>
 <h3 align="center">Full Stack Developer: Crafting Innovative Solutions with a Value-Driven Approach</h3>
 
-- 🔭 I’m currently working on [Restaurant Order](https://github.com/Nogyboy/restaurant_order_server)
+- 🔭 I’m currently working on my skills.
 
-- 🌱 I’m currently learning **TypeScript, React, Tailwind, Express**
+- 🌱 I’m currently learning **TypeScript, React, Tailwind, Express, Astro**
 
 - 👯 I’m looking to collaborate on [Medusa](https://github.com/medusajs/medusa)
 
-- 🤝 I’m looking for help with [Restaurant Order](https://github.com/Nogyboy/restaurant_order_server)
+- 🤝 I’m looking for help with anything
 
 - 👨‍💻 All of my projects are available at [https://www.geovannyguaman.com/](https://www.geovannyguaman.com/)
 
